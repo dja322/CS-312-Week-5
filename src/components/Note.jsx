@@ -1,0 +1,13 @@
+import React from "react";
+
+//Create the note component shown in center of page
+function Note() {
+  return (
+    <div className="note">
+        <h1>Title of Homewokr</h1>
+        <p>Content of Homework</p>
+    </div>
+  );
+}
+
+export default Note;
