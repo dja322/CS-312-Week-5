@@ -4,8 +4,8 @@ import React from "react";
 function Note() {
   return (
     <div className="note">
-        <h1>Title of Homewokr</h1>
-        <p>Content of Homework</p>
+        <h1>Title of Note</h1>
+        <p>Content of Note</p>
     </div>
   );
 }
