@@ -4,7 +4,7 @@ import React from "react";
 function Header() {
   return (
     <header>
-      <h1> CS312 </h1>
+      <h1> Keeper </h1>
     </header>
   );
 }
